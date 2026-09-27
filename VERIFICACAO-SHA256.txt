@@ -1,0 +1,1 @@
+65cc6aeccfc1d35fe461ad384d20bdced0785ac9073fbb9114d2b816dc918e6b  dist/The_Turing_Test_PTBR_Completo_v1.0.zip

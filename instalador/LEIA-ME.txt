@@ -1,0 +1,77 @@
+THE TURING TEST — PT-BR COMPLETO
+Versao 1.0 — Windows
+
+PACOTE NAO OFICIAL E GRATUITO
+
+Este pacote reúne em uma unica instalacao:
+
+- dialogos, legendas e textos em portugues do Brasil;
+- menus principais, pausa, opcoes, video, audio, controles e jogabilidade traduzidos;
+- mensagens, confirmacoes e telas de carregamento traduzidas;
+- fonte das legendas aumentada de 14 para 21 (50% maior);
+- backup e restauracao automaticos.
+
+A fonte maior foi testada em 1920x1080.
+
+
+COMO INSTALAR
+
+1. Tenha o jogo original instalado.
+2. Feche o jogo.
+3. Extraia todo o conteudo deste ZIP para uma pasta comum.
+   Nao execute o instalador diretamente de dentro do ZIP.
+4. Execute INSTALAR.bat.
+5. O instalador tenta localizar automaticamente a pasta do jogo na Steam.
+6. Confira a pasta apresentada e pressione ENTER. Se estiver incorreta,
+   digite o caminho da pasta principal do jogo.
+7. Aguarde a mensagem de instalacao concluida.
+
+Exemplos de pasta principal:
+
+C:\The Turing Test
+C:\Program Files (x86)\Steam\steamapps\common\The Turing Test
+D:\SteamLibrary\steamapps\common\The Turing Test
+
+
+COMO RESTAURAR
+
+Feche o jogo e execute RESTAURAR.bat. Selecione a mesma pasta usada na
+instalacao. Os arquivos anteriores ficam guardados dentro da pasta do jogo em:
+
+Backup_PTBR_Completo_v1
+
+Nao apague essa pasta enquanto quiser manter a possibilidade de restauracao.
+
+
+COMPATIBILIDADE E SEGURANCA
+
+O pacote foi preparado para a versao de PC/Windows analisada em 26/09/2026.
+Antes de escrever qualquer arquivo, o instalador confere a versao do
+executavel e de todos os recursos modificados. Se algum arquivo for
+incompativel, ele encerra sem aplicar a traducao.
+
+Se a Steam atualizar ou verificar os arquivos do jogo, talvez seja necessario
+instalar o pacote novamente. Antes disso, execute RESTAURAR.bat quando houver
+uma instalacao parcial.
+
+Algumas palavras gravadas diretamente no executavel aparecem sem acentos,
+como OPCOES, CAPITULOS e NAO. Essa limitacao evita caracteres corrompidos no
+mecanismo antigo usado por essa versao do jogo.
+
+
+SOLUCAO DE PROBLEMAS
+
+- "Jogo nao encontrado": informe a pasta que contem a subpasta TheTuringTest.
+- "Versao incompativel": use a versao de PC compatível e restaure outros mods.
+- "Acesso negado": tente executar INSTALAR.bat como administrador.
+- Outro erro: envie o arquivo resultado_instalar.txt criado ao lado do instalador.
+
+
+SOBRE O CONTEUDO DO ZIP
+
+Este ZIP nao contem o jogo completo nem o executavel original. Ele distribui
+somente os textos em portugues e pequenas diferencas binarias que precisam ser
+aplicadas sobre uma copia legitima do jogo. Nao venda este pacote.
+
+The Turing Test e suas marcas e recursos pertencem aos respectivos titulares.
+Este e um projeto de fa, sem afiliacao com os desenvolvedores ou publicadores.

@@ -1,0 +1,19 @@
+THE TURING TEST — PT-BR COMPLETO v1.0
+
+TRADUCAO
+- Inclui os arquivos completos de dialogos, legendas, creditos e textos PT-BR.
+- Traduz o menu principal, menu de pausa e telas de confirmacao.
+- Traduz as secoes de video, audio, controles e jogabilidade.
+- Traduz botoes, opcoes graficas, comandos, mensagens e carregamento.
+
+ACESSIBILIDADE
+- Aumenta a fonte das legendas de 14 para 21 pontos (50%).
+- Ajuste testado em 1920x1080.
+
+INSTALADOR
+- Detecta a pasta principal e bibliotecas comuns da Steam.
+- Confere hashes antes e depois de cada alteracao.
+- Interrompe sem modificar o jogo se a versao for incompativel.
+- Cria backup automatico e oferece restauracao por RESTAURAR.bat.
+- Usa patches binarios pequenos; nao inclui o executavel nem os arquivos
+  completos de recursos do jogo.

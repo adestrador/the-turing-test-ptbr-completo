@@ -1,0 +1,188 @@
+﻿{
+  "name": "The Turing Test - PT-BR Completo",
+  "version": "1.0",
+  "testedResolution": "1920x1080",
+  "files": [
+    {
+      "path": "TheTuringTest/Content/Menus/PC_Settings_Menu.uasset",
+      "kind": "patch",
+      "originalHashes": [
+        "76cc27cbe7e81cbedd2ad3b67906f6b2772667ae2ea26237e5ef2fb90ff01e4a"
+      ],
+      "patchedHash": "46190fe2493dcc351709c5a0dd1e214fe8667074e84d63baf3cdad0e536346b3",
+      "patch": "dados/patches/01.ttpatch",
+      "patchHash": "12358b5cbc0e6f3972aaaca591b339eea863f32997a7633a2a43d08b9e772068"
+    },
+    {
+      "path": "TheTuringTest/Content/Menus/MainMenu.uasset",
+      "kind": "patch",
+      "originalHashes": [
+        "ec7f7cdd6fc4ed40a292ce2ce40091c5b9dc6f5c84a027fc81be68d054aa776c"
+      ],
+      "patchedHash": "66c9fcf643559c394ff420f7ba264120a7b8afa4e5dacd5b3e19a19e82821b09",
+      "patch": "dados/patches/02.ttpatch",
+      "patchHash": "4e15a90abeb9beb954ae76da485e6878645c3d10b9984e89ffbfeaebdfe0483a"
+    },
+    {
+      "path": "TheTuringTest/Content/Menus/PC_Display_Settings.uasset",
+      "kind": "patch",
+      "originalHashes": [
+        "1dfa2bb4b460a3fb1272714c5d6495abe7c26fe433a6b42c40556b93e120321e"
+      ],
+      "patchedHash": "447e233504a2082062411888627c1d40e0b617aff7659908f3bf466d0e35488c",
+      "patch": "dados/patches/03.ttpatch",
+      "patchHash": "9598abace36fcbbccf71d3a5fbaeede8d86f378d801a2121d20099b818aee943"
+    },
+    {
+      "path": "TheTuringTest/Content/Menus/PressStartMenuDemo.uasset",
+      "kind": "patch",
+      "originalHashes": [
+        "c743950c09f7021c2a4b0b74577af1705efc1de476fed0f86f4dd01bd4da876c"
+      ],
+      "patchedHash": "3f8d71641899898f434ec8746839d6ce93dac8946e7eecc3f24bcb0738a49c95",
+      "patch": "dados/patches/04.ttpatch",
+      "patchHash": "ab0a667b7273694c8449f76cc2ca2c5e90a35ec800248bd2720a2e82dc07b8e7"
+    },
+    {
+      "path": "TheTuringTest/Content/Menus/MessageWindow.uasset",
+      "kind": "patch",
+      "originalHashes": [
+        "5bf852b6ff28a90e25e9333d488e34fb4b089a22cd34b06434f3cab572e3a13c"
+      ],
+      "patchedHash": "31619977ff4322b5855f6a42bf32b9b1e0e23adc4802c42bfddbdf764926692f",
+      "patch": "dados/patches/05.ttpatch",
+      "patchHash": "29dd698d1a6473e195a474503dbceb0fdab7e6a8ed694342d2a778395e49dc4e"
+    },
+    {
+      "path": "TheTuringTest/Content/Menus/PC_Audio_Settings.uasset",
+      "kind": "patch",
+      "originalHashes": [
+        "3b67bb7d7235c6ea4b1b54934aa766250c2e90892ad72efdca76ff74f100881d"
+      ],
+      "patchedHash": "6c06ac6f14636ce1805abf8b7a84fa8d844bc19eab81e85626455cbe7d2052b2",
+      "patch": "dados/patches/06.ttpatch",
+      "patchHash": "2f238793238f2c685df2467995b0741d8edafe555265a1c2b0f9bf3ac661fed9"
+    },
+    {
+      "path": "TheTuringTest/Content/Menus/PC_Controls_Settings.uasset",
+      "kind": "patch",
+      "originalHashes": [
+        "d02542aaa75ad071d86829682bf4cc91db545c2b336a01a1c2a6ea0c19e5edbf"
+      ],
+      "patchedHash": "d761bab1d9c05826ee842406120ab3126da0d7c759a4a1fb2e2ae860ce964944",
+      "patch": "dados/patches/07.ttpatch",
+      "patchHash": "279f565c95a86dd084c78b2a8ef6c8b40dc3122e1f88495b9d49e3d6edc3e623"
+    },
+    {
+      "path": "TheTuringTest/Content/Menus/PC_Gameplay_Settings.uasset",
+      "kind": "patch",
+      "originalHashes": [
+        "1b65815bb501e02b7dabfe244239ed96aff7bf5c82178578d42365a7891fdf50"
+      ],
+      "patchedHash": "e16137c2fbf5ec2c79a88f173b929bd89320e8b5ae17d2c392e515d68d906dcb",
+      "patch": "dados/patches/08.ttpatch",
+      "patchHash": "bb66e0771d08815f479e291bdf505af64ace3d5a6ece4bba11f9df1aca484497"
+    },
+    {
+      "path": "TheTuringTest/Content/Menus/PauseMenu.uasset",
+      "kind": "patch",
+      "originalHashes": [
+        "a1dcd79a462bd2ba0159f812ac39d2d95e36198a509d06884aa527969103f5ed"
+      ],
+      "patchedHash": "a1662701d8c3607ef0801873cd8624bb8f8df06a04c6978c4ebc18070b0c75d4",
+      "patch": "dados/patches/09.ttpatch",
+      "patchHash": "d6a5ab08063b2b6a3e20a473a98bab3bfec112570bd85d75204ba09931129361"
+    },
+    {
+      "path": "TheTuringTest/Content/Menus/PC_Settings_Controls_Unselected_Button.uasset",
+      "kind": "patch",
+      "originalHashes": [
+        "c11127191ec41de37ed7af1f9fa52e9cc742853ab25b5b8774ed758b8d47cf2d"
+      ],
+      "patchedHash": "730052e4edd4573ebdb5675371dbca14198c0f3b8b7f46a7d8fed26103a792ca",
+      "patch": "dados/patches/10.ttpatch",
+      "patchHash": "0d2e3253a0b90eeaac8cce8c7f6f0120911a93d5ccb4bbe0f60c59313c8069ef"
+    },
+    {
+      "path": "TheTuringTest/Content/Menus/PressStartMenu.uasset",
+      "kind": "patch",
+      "originalHashes": [
+        "67a26f060516fc683b02bd5de244a378e968bff4b33399360641a4f423503429"
+      ],
+      "patchedHash": "24ebc296aa5ad4b48442c72aab89d4a613fd2a6c85dff645c507b8f0e175c937",
+      "patch": "dados/patches/11.ttpatch",
+      "patchHash": "926f00770afaa93d69d8291f34b4087f50bf02ea81a477186a3fd04f407919ce"
+    },
+    {
+      "path": "TheTuringTest/Content/Menus/PC_Settings_InputMap_Item.uasset",
+      "kind": "patch",
+      "originalHashes": [
+        "1d53ff87764e6c4e4094033fc7eee955d1ec9280da863c93b58071339f6b76fa"
+      ],
+      "patchedHash": "b81f8d208926dac633d4bfe6c0a2651b7327d357f44975d91769155a0fcbb0cf",
+      "patch": "dados/patches/12.ttpatch",
+      "patchHash": "be19b173fe597fd02d565ff4fc3814b2103113b681134b144b30522688e9dd8d"
+    },
+    {
+      "path": "TheTuringTest/Content/Menus/PC_Settings_Controls_Selected_Button.uasset",
+      "kind": "patch",
+      "originalHashes": [
+        "25f9adc4203125c3ddef0a9e65fcd92ab9aa44b5d948fcaf122bad495079b528"
+      ],
+      "patchedHash": "6261caf3f074d793e670589726d3596a7a1d776dc466231de3b2f6672a5842ae",
+      "patch": "dados/patches/13.ttpatch",
+      "patchHash": "5deaed210d84610405ea19ce804911c0cd9cac016f2aea657aa9ae638b723a3d"
+    },
+    {
+      "path": "TheTuringTest/Content/Menus/LoadingScreen.uasset",
+      "kind": "patch",
+      "originalHashes": [
+        "442528473b2ff106da039f80c5ae59e59903ac163a139286ad1a32e7e2044602"
+      ],
+      "patchedHash": "56fe429ccbc5f1d603be7502ce8883acc4a88fdc8a41fd1bf576d61decaa64e8",
+      "patch": "dados/patches/14.ttpatch",
+      "patchHash": "b6ca7d6a25c98e0c40e247f2fbbff63f13d7a295bfbd611d692e0e5a5701463a"
+    },
+    {
+      "path": "TheTuringTest/Content/UI/Fonts/SubtitleFont.uasset",
+      "kind": "patch",
+      "originalHashes": [
+        "8b0ecfa5352d7aeba70612192d1972d57a1e0d353599b87a19b7d4677cdcd007"
+      ],
+      "patchedHash": "6c1f3e1200c88cefe586b471c0d3ed7bb9715d4c1fcda02f1792b589d071432a",
+      "patch": "dados/patches/15.ttpatch",
+      "patchHash": "da89c87a4ced2b1e6049fb21820f8880785865352c6341b6e706f99b82f97d19"
+    },
+    {
+      "path": "TheTuringTest/Binaries/Win64/TheTuringTest.exe",
+      "kind": "patch",
+      "originalHashes": [
+        "12c4e8c89e9251e6bb2fa683598492992b0563bd868165665e3ff6d3b1d9354b"
+      ],
+      "patchedHash": "499fb36c4a40710045c41c4d1969cffd7177556a544c9df48bf0708f31b494c3",
+      "patch": "dados/patches/16.ttpatch",
+      "patchHash": "c333113d20b071955594bc83a20af7d08c404b9fcb085dab73820b9678051178"
+    },
+    {
+      "path": "TheTuringTest/TextContent/CSV/credits.csv",
+      "kind": "replace_any",
+      "originalHashes": [],
+      "patchedHash": "b3fd023898c198eeccb907d1d6243465462b492c6e3fc7cdaf2a9a7371c453db",
+      "payload": "dados/textos/credits.csv"
+    },
+    {
+      "path": "TheTuringTest/TextContent/CSV/subtitles.csv",
+      "kind": "replace_any",
+      "originalHashes": [],
+      "patchedHash": "6f692340dcbd4bd9fe608318609aa06bf425e69e84d509aaf70b89535621fb9c",
+      "payload": "dados/textos/subtitles.csv"
+    },
+    {
+      "path": "TheTuringTest/TextContent/CSV/translations.csv",
+      "kind": "replace_any",
+      "originalHashes": [],
+      "patchedHash": "645aa5a2dc14f109b1b3a7f99566ba53d5911a06b17ac105fe8d2612da7911dc",
+      "payload": "dados/textos/translations.csv"
+    }
+  ]
+}
